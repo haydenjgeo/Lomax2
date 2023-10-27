@@ -13,4 +13,4 @@ References:
 
 Roth, D.L. (2021). LomaxTools. Github Repository. https://github.com/danicalir/LomaxTools
 
-Jacobson, H., Roth, D.L., Walton, G., Zimmer., M, Johnson, K. (2023) Post-fire Variability in Sediment Transport by Ravel in the Diablo Range. In prep. 
+Jacobson, H., Roth, D.L., Walton, G., Zimmer., M, Johnson, K. (2023). Post-fire Variability in Sediment Transport by Ravel in the Diablo Range. In prep. 
