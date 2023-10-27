@@ -1,7 +1,7 @@
 # Lomax2
 Modified version of LomaxTools (Roth, 2021) which can be found at https://zenodo.org/badge/latestdoi/281159851 
 
-Please cite this code as appropriate with the DOI 10.5281/zenodo.10048974
+Please cite this code where appropriate with the DOI 10.5281/zenodo.10048974
 
 This version of LomaxTools can be used to recreate all analyses presented in Jacobson et al. (2023). This code is written entirely in Matlab.
 
